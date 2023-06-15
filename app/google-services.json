@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810204056941",
+    "project_id": "carimatang2",
+    "storage_bucket": "carimatang2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810204056941:android:390522b7e7e092834b1e64",
+        "android_client_info": {
+          "package_name": "com.example.cari_matang2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810204056941-m92ifii7fd0d93ltgtat42dj841fc9j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmR3fH93gIFbjjpCEs9MSqyJk8Ju6kWwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810204056941-m92ifii7fd0d93ltgtat42dj841fc9j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

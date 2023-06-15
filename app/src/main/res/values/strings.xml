@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Cari_Matang2</string>
+    <string name="title_menu_1">Aplikasi Pendeteksi Buah Segar dan Busuk</string>
+    <string name="title_menu_2">Dapat mendeteksi buah Segar</string>
+    <string name="title_menu_3">Dapat mendeteksi buah Busuk</string>
+    <string name="title_menu_4">Menggunakan Teknologi Machine Learning dan Kamera</string>
+    <string name="desc_menu_1">Aplikasi untuk Capstone Project Bangkit 2023</string>
+    <string name="desc_menu_2">Dengan menggunakan teknologi implementasi AI/ML untuk mendeteksi buah segar</string>
+    <string name="desc_menu_3">Dengan menggunakan teknologi implementasi AI/ML untuk mendeteksi buah busuk</string>
+    <string name="desc_menu_4">Menggunakan implementasi kamera Android dan Machine Learning</string>
+
+    <string name="explore_now">Coba Sekarang</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="i_don_t_have_an_account">I don\'t have an account</string>
+    <string name="register">Register</string>
+    <string name="error">Error</string>
+    <string name="default_text">-</string>
+    <string name="please_wait">Please_Wait</string>
+    <string name="notification">Notification</string>
+    <string name="success">Success</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="my_gallery">My Gallery</string>
+    <string name="user">User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="mark_as_uploaded">Mark As Uploaded</string>
+    <string name="description_upload_button">upload_button</string>
+    <string name="manage_photos">Manage Photos</string>
+    <string name="delete">Delete</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="change_language">Change Language</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="camera_x">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="please_field_your_name">Please field your name</string>
+    <string name="please_field_your_confirm_password">Please field your confirm password</string>
+    <string name="please_field_your_password_more_than_8">Please field your password more than 8</string>
+    <string name="please_field_your_confirm_password_more_than_8">Please field your confirm password more than 8</string>
+    <string name="your_password_didnt_match">Your password did\'nt match</string>
+    <string name="please_field_your_old_password">Please field your old password</string>
+    <string name="please_input_your_old_password_more_than_8">Please input your old password more than 8</string>
+    <string name="please_field_your_new_password">Please field your new password</string>
+    <string name="please_input_your_new_password_more_than_8">Please input your new password more than 8</string>
+    <string name="please_field_your_confirm_new_password">Please field your confirm new password</string>
+    <string name="please_input_your_confirm_new_password_more_than_8">Please input your confirm new password more than 8</string>
+    <string name="success_change_pass">Congratulation, your password has been change</string>
+    <string name="success_register">Congratulation, your account has been register</string>
+    <string name="success_forgot_pass">Congratulation, your link reset password has been sent to your email, please check it!</string>
+    <string name="please_field_your_email">Please field your email</string>
+    <string name="please_use_valid_email">Please use valid email</string>
+    <string name="please_field_your_password">Please field your password</string>
+    <string name="or">or</string>
+    <string name="welcome_home">Welcome Home</string>
+    <string name="tag_line">Pengolahan Buah-buahan Pisang, Apel dan Jeruk</string>
+    <string name="your_materials">Recommendation</string>
+    <string name="user_profile">User Profile</string>
+    <string name="name">Name</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="max_upload_8_photo">Max Upload 8 Photo</string>
+
+
+</resources>
