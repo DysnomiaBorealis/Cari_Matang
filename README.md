@@ -1,7 +1,11 @@
-# Cari_Matang
+Cari Matang Android App
 
-an Android app using MVP Architecture but also adapt to the MVVM Architecture little but that do :
-1. Fetches data to the FASTApi backend
-2. has Camera functionality using IntentCamera and Camera X
-3. Login functionality using Firebase Auth
-4. Lastly, a Webview so that the user can interact with the FASTApi interface
+This Android application is primarily built using the MVP (Model-View-Presenter) architecture, with some elements adapted from the MVVM (Model-View-ViewModel) architecture.
+Features:
+
+1. FASTApi Backend Integration: The app fetches data from a backend powered by FASTApi.
+2. Camera Functionality: Users can capture images using both IntentCamera and Camera X.
+3. User Authentication: The app provides login functionality through Firebase Authentication.
+4. Webview Integration: A built-in webview allows users to directly interact with the FASTApi interface.
+
+
