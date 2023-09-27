@@ -7,7 +7,7 @@ Features:
 2. Camera Functionality: Users can capture images using both IntentCamera and Camera X.
 3. User Authentication: The app provides login functionality through Firebase Authentication.
 4. Webview Integration: A built-in webview allows users to directly interact with the FASTApi interface.
-5. Youtubeview that's integrated via Firebase-app and using android youtube player library
+5. Youtubeview that's integrated via Firebase database and is played using android youtube player library.
 
 This app was built by me and my teammates at Bangkit Academy H-1 in order to complete our capstone project.
 
